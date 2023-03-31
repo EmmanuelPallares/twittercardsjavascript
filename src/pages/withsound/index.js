@@ -38,7 +38,6 @@ export default function Index() {
         <meta name="twitter:player:width" content="380" />
         <meta name="twitter:player:height" content="380" />
         <meta name="twitter:player:stream" content="true" />
-        <meta property="og:url" content="https://www.vitoz.dev/" />
         <meta name="twitter:player:stream:content_type" content="audio/mpeg" />
       </Head>
       {/* <section>
@@ -56,7 +55,6 @@ export default function Index() {
   <meta name="twitter:player:width" content="380"/>
   <meta name="twitter:player:height" content="380"/>
   <meta name="twitter:player:stream" content="true"/>
-  <meta property="og:url" content="https://www.vitoz.dev/" />
   <meta name="twitter:player:stream:content_type" content="audio/mpeg"/>
 </Head>`}
             </code>
@@ -131,7 +129,6 @@ export default function Index() {
   <meta name="twitter:player:width" content="380"/>
   <meta name="twitter:player:height" content="380"/>
   <meta name="twitter:player:stream" content="true"/>
-  <meta property="og:url" content="https://www.vitoz.dev/" />
   <meta name="twitter:player:stream:content_type" content="audio/mpeg"/>
 </Head>`}
           </code>
